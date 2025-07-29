@@ -17,4 +17,7 @@ npm install ../pkg
 
 npm run serve
 
-```
+
+## 参考
+
+- https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Rust_to_Wasm
